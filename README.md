@@ -25,7 +25,7 @@ Download Service account key from Firebase and change "Login.json" with yours. (
   "type": "service_account",
   "project_id": "dene-sdsd1066c",
   "private_key_id": "fb12fsdsadd4a9c02e5523c1427cf55397543745f8143c",
-  "private_key": "This ones are just examples ",
+  "private_key": "This ones are just example",
   "client_email": "firebase-adminsdk-tgf8j@dene-1066c.iam.gserviceaccount.com",
   "client_id": "111946142960asdasd348508209",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",

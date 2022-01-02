@@ -34,7 +34,8 @@ Download Service account key from Firebase and change "Login.json" with yours. (
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tgf8j%40dene-1066c.iam.gserviceaccount.com"
 }
 ```
-
+## Video (just TR language)
+https://youtu.be/xCU33UL0WIs
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

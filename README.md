@@ -1,4 +1,4 @@
-# - Hi in red 
+# Hi
 Hi! This Code was gets data from MQTT or Firebase and sends between each other\
 May The Force Be With Us
 

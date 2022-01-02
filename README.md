@@ -12,14 +12,14 @@ sudo pip3 install firebase-admin
 ```
 
 ## Setting IP adress
-Open "ip.json" and chance "ip" with yours.
+Open "ip.json" and change "ip" with yours.
 ```json
 {
     "ip": "172.22.222.27"
 }
 ```
 ## Setting Firebase credentials
-Download Service account key from firebase and chance with yours.
+Download Service account key from Firebase and change "Login.json" with yours. (you can just change name of the new file with "Login.json")
 ```json
 {
   "type": "service_account",

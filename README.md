@@ -3,7 +3,7 @@ Hi! This Code was gets data from MQTT or Firebase and sends between each other\
 May The Force Be With Us
 
 ## Installation
-
+Dont forget setup the mosqiutto broker.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash

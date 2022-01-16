@@ -12,7 +12,7 @@ sudo pip3 install firebase-admin
 ```
 
 ## Setting IP adress
-Open "ip.json" and change "ip" with yours.
+Open "ip.json" and change "ip" with your mosquitto address or write another broker address
 ```json
 {
     "ip": "172.22.222.27"
